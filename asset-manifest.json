@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/snake-game/static/css/main.45a12b5a.chunk.css",
+    "main.js": "/snake-game/static/js/main.c5fdaa75.chunk.js",
+    "main.js.map": "/snake-game/static/js/main.c5fdaa75.chunk.js.map",
+    "runtime-main.js": "/snake-game/static/js/runtime-main.833ca6c1.js",
+    "runtime-main.js.map": "/snake-game/static/js/runtime-main.833ca6c1.js.map",
+    "static/js/2.6a2de437.chunk.js": "/snake-game/static/js/2.6a2de437.chunk.js",
+    "static/js/2.6a2de437.chunk.js.map": "/snake-game/static/js/2.6a2de437.chunk.js.map",
+    "index.html": "/snake-game/index.html",
+    "precache-manifest.3334753adb09c88a4b067f50c8a0bd69.js": "/snake-game/precache-manifest.3334753adb09c88a4b067f50c8a0bd69.js",
+    "service-worker.js": "/snake-game/service-worker.js",
+    "static/css/main.45a12b5a.chunk.css.map": "/snake-game/static/css/main.45a12b5a.chunk.css.map",
+    "static/js/2.6a2de437.chunk.js.LICENSE.txt": "/snake-game/static/js/2.6a2de437.chunk.js.LICENSE.txt",
+    "static/media/Tick-DeepFrozenApps-397275646.mp3": "/snake-game/static/media/Tick-DeepFrozenApps-397275646.b685cef5.mp3",
+    "static/media/game-over-sound-effect.mp3": "/snake-game/static/media/game-over-sound-effect.49d382a5.mp3",
+    "static/media/zapsplat_human_eat_bite_apple_004_15223.mp3": "/snake-game/static/media/zapsplat_human_eat_bite_apple_004_15223.cd6b4dbb.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.833ca6c1.js",
+    "static/js/2.6a2de437.chunk.js",
+    "static/css/main.45a12b5a.chunk.css",
+    "static/js/main.c5fdaa75.chunk.js"
+  ]
+}
